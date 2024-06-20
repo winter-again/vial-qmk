@@ -4,7 +4,7 @@
         "rows": 10,
         "cols": 6
     },
-    "lighting": "qmk_backlight_rgblight",
+    "lighting": "vialrgb",
     "vendorId": "0xCB10",
     "layouts": {
         "keymap": [
@@ -195,8 +195,8 @@
                 {
                     "x": 0.3
                 },
-                "0,0\n\n\n\n\n\n\n\n\ne",
-                "0,1\n\n\n\n\n\n\n\n\ne"
+                "2,0\n\n\n\n\n\n\n\n\ne",
+                "2,1\n\n\n\n\n\n\n\n\ne"
             ],
             [
                 {
