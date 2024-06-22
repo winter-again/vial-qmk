@@ -26,6 +26,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define VIAL_UNLOCK_COMBO_COLS {0,5}
 
 // pin connected to the data pin of the LEDs
+// took this from rev8/info.json
 #define WS2812_DI_PIN GP9
 // number of leds
 #define RGB_MATRIX_LED_COUNT 68
